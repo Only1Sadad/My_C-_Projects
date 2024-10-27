@@ -1,7 +1,7 @@
 /* This program calculates student grades based on the assignments and weights
 * provided in a syllabus file, and stores the result in a new file for each student.
 * Programmer: Sadad Yusuf
-* Date: 8/21/2024
+* Date: 09/01/2024
  
  * Pseudocode:
   Declare variables:
